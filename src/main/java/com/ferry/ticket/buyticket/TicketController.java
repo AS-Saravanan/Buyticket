@@ -10,6 +10,6 @@ public class TicketController {
     @RequestMapping("/ticket")
     //Ticket endpoint
     public String hello(){
-        return "Hi there, you can buy ticket!!";
+        return "Dev - Hi there, you can buy ticket!!";
     }
 }
